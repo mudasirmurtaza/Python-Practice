@@ -3,7 +3,7 @@ This repository contains a collection of Python practice questions that I’ve w
 
 # Python Practice Questions Repository
 
-https://www.bing.com/images/create/python-logo/1-66fbc32e47fa424e8587bc36bad470a1?id=Q%2fDiLvVh2XRbLWfYKtNbnw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.p0YybVD9uPB.Qh5nPHu2&frame=sydedg&skey=CZ7OZXumkU74S2T-DP-giaJYsiI1hRhomBYfcvUwjL4&FORM=SYDBIC
+https://drive.google.com/file/d/1V2OBoD_VoWnpulCEWYbbzRsvOjxLetrX/view?usp=drive_link
 
 Welcome to my Python practice questions repository! 🐍 Here, you'll find a curated set of exercises designed to help you strengthen your Python skills. Whether you're just starting out or aiming to become a Python pro, this repository has something for everyone.
 
