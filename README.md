@@ -3,7 +3,6 @@ This repository contains a collection of Python practice questions that I’ve w
 
 # Python Practice Questions Repository
 
-https://drive.google.com/file/d/1V2OBoD_VoWnpulCEWYbbzRsvOjxLetrX/view?usp=drive_link
 
 Welcome to my Python practice questions repository! 🐍 Here, you'll find a curated set of exercises designed to help you strengthen your Python skills. Whether you're just starting out or aiming to become a Python pro, this repository has something for everyone.
 
@@ -26,7 +25,7 @@ Feel free to explore the folders and dive into the exercises. Each question come
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/python-practice.git
+git clone https://github.com/your-username/Python-Practice.git
 cd python-practice-questions
 ```
 
