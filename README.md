@@ -25,7 +25,7 @@ Feel free to explore the folders and dive into the exercises. Each question come
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Python-Practice.git
+git clone https://github.com/mudasirmurtaza/Python-Practice.git
 cd python-practice-questions
 ```
 
